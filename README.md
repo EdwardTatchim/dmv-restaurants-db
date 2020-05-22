@@ -1,7 +1,9 @@
 # DMV Restaurants Database
 # For INST327 at the University of Maryland
 
-This is a test database of restaurants in the DMV area. We began to build the database by figuring out what tables we wanted to be featured. Then we created some sample data. This data lists real restaurants with fictitious reviews, customer information, and restaurant vending companies. After, we brainstormed a few possible queries that could be used on the database and turned them into views.
+This is a test database of restaurants in the DMV area. We began to build the database by figuring out what tables we wanted to be featured. You can take a sneak peek at the tables in the file titled "team_4_restaurants_logical.png". 
+
+Then we created some sample data. This data lists real restaurants with fictitious reviews, customer information, and restaurant vending companies. After, we brainstormed a few possible queries that could be used on the database and turned them into views.
 
 The views I created go as follows:
 - payment_vending: 
