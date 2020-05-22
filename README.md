@@ -13,4 +13,4 @@ This view finds the average party size for restaurants with an average rating gr
 - stay_at_home: 
 This view counts the number of reservations each restaurant must cancel due to the stay at home order issued for Maryland and Washington, D.C. on March 30, 2020. 
 
-You may read more about the process of designing the database in the written report. 
+You may read more about the process of designing the database in the written report titled "team_4_restaurants_report.pdf". 
