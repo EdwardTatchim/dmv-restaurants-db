@@ -1,0 +1,41 @@
+Restaurant_ID,Restaurant_Name,Street_Address,City,State,Phone_number,Parking_information,Alcohol_available,Smoking_Allowed,Dress_code
+1,House of Asia,9350 Snowden River Pkwy,Columbia,MD,(410) 381-3844,yes,no,no,no
+2,The Walrus Oyster & Ale House,10300 Little Patuxent Pkwy,Columbia,MD,(410) 730-5738,yes,yes,yes,no
+3,Chutney Indian Restaurant,9400 Snowden River Pkwy,Columbia,MD,(410) 381-3600,yes,yes,yes,no
+4,Stanford Grill,8900 Stanford Blvd.,Columbia,MD,(410) 312-0445,yes,no,no,no
+5,Bertucci's Italian Restaurant,9081 Snowden River Pkwy,Columbia,MD,(410) 312-4800,yes,no,no,no
+6,Pub Dog Pizza & Drafthouse,"8865 Stanford Blvd., #101",Columbia,MD,(410) 872-0364,yes,no,no,no
+7,Hunan Manor,7091 Deepage Dr.,Columbia,MD,(410) 381-1134,yes,yes,yes,no
+8,Sonoma's Bar & Grill,7284 Cradlerock Way,Columbia,MD,(410) 381-7220,yes,yes,yes,no
+9,Coastal Flats,135 Crown Park Ave.,Gaithersburg,MD,(301) 869-8800,no,yes,no,Dressy
+10,Barking Mad Cafe,239 Spectrum Ave.,Gaithersburg,MD,(240) 297-6230,no,yes,no,no
+11,Thai House Restaurant,8369 Snouffer School Rd.,Gaithersburg,MD,(301) 963-1800,no,yes,yes,Casual
+12,First Watch,802 Muddy Branch Rd.,Gaithersburg,MD,(301) 977-9764,no,yes,yes,no
+13,Old Town Pour House,212 Ellington Blvd.,Gaithersburg,MD,(301) 963-6281,no,yes,yes,no
+14,Ted's Bulletin,220 Ellington Blvd.,Gaithersburg,MD,(301) 990-0600,yes,yes,yes,Casual
+15,Uncle Julio's,231 Rio Blvd.,Gaithersburg,MD,(240) 632-2150,yes,yes,yes,Casual
+16,YardHouse,211 Rio Blvd.,Gaithersburg,MD,(240) 683-8790,no,yes,yes,no
+17,The Park at 14th,920 14th St. NW,Washington,D.C.,(202) 550-0300,no,yes,yes,Casual
+18,HalfSmoke,651 Florida Ave. NW,Washington,D.C.,(202) 986-2079,no,yes,yes,no
+19,Ozio Martini and Cigar Lounge,1813 M St. NW,Washington,D.C.,(202) 822-6000,no,yes,no,casual
+20,The Gryphon,1337 Connecticut Ave. NW,Washington,D.C.,(202) 827-8980,yes,yes,no,no
+21,Hawthorne,1336 U St. NW,Washington,D.C.,(202) 853-9194,yes,no,no,no
+22,El Rey,919 U St. NW,Washington,D.C.,(202) 506-6418,no,yes,no,no
+23,Copycat Company,1110 H St. NE,Washington,D.C.,(202) 241-1952,no,yes,yes,no
+24,Milk and Honey,1245 H St NE,Washington,D.C.,(202) 396-0038,no,yes,no,no
+25,Barrel,613 Pennsylvania Ave. SE,Washington,D.C.,(202) 543-3622,yes,yes,no,no
+26,Old Towne Inn,14745 Main St.,Upper Marlboro,MD,(301) 627-1400,yes,yes,no,no
+27,Marlboro Grille,14606 Main St.,Upper Marlboro,MD,(301) 627-0480,yes,no,no,no
+28,Caribbean Flava,5050 Brown Station Rd.,Upper Marlboro,MD,(301) 574-2003,yes,no,no,no
+29,Nipsey's Restaurant and Grill,5753 Crain Hwy,Upper Marlboro,MD,(301) 627-1395,yes,yes,no,no
+30,Jasper's,9640 Lottsford Ct.,Upper Marlboro,MD,(301) 883-9500,yes,yes,no,no
+31,Babes Boys Tavern,15903 Marlboro Pike,Upper Marlboro,MD,(301) 627-2012,yes,yes,no,no
+32,The Groove Restaurant,600 Bowieville Manor Ln.,Upper Marlboro,MD,(301) 249-2701,yes,yes,no,no
+33,Casablanca Cafe,8325 Old Marlboro Pike,Upper Marlboro,MD,(301) 735-5888,yes,no,no,no
+34,Pho Thom,7313 Baltimore Ave.,College Park,MD,(240) 582-7530,no,yes,no,no
+35,Potomac Pizza,"7777 Baltimore Ave., Suite D",College Park,MD,(240) 582-5242,no,no,no,no
+36,The Jerk Pit,9078 Baltimore Ave.,College Park,MD,(301) 982-5375,yes,yes,no,no
+37,Marathon Deli ,4429 Lehigh Rd.,College Park,MD,(301) 927-6717,yes,yes,no,no
+38,Blaze ,7419 Baltimore Ave.,College Park,MD,(301) 392-2324,no,no,no,no
+39,Nandos,7400 Baltimore Ave.,College Park,MD,(240) 582-8420,no,yes,no,no
+40,Lotsa,4350 Knox Rd.,College Park,MD,(410) 849-4400,yes,no,no,no

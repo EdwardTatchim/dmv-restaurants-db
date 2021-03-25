@@ -1,0 +1,5 @@
+Payment Type ID,Type
+200,cash
+201,credit
+202,debit
+203,electronic
